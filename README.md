@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **Do you help?**
+- 💬 Ask me about **Do you need help?**
 
 - 📫 How to reach me **iam2005asha@gmail.com**
 
